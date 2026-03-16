@@ -1,11 +1,11 @@
 const logotext = "Rajib";
 const meta = {
 	title: "Rajib hasan(Dev)",
-	description: "I’m Rajib hasan  _ Full stack devloper,currently working in Berlin",
+	description: "I’m  Rajib hasan  _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-	title: "I’am Rajib Hasan",
+	title: "I’am Rajib Hasan (Dev)",
 	animated: {
 		first: "I love coding",
 		second: "I code cool websites",
