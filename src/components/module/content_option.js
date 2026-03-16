@@ -1,6 +1,6 @@
 const logotext = "Rajib";
 const meta = {
-	title: "Rajib hasan",
+	title: "Rajib hasan(Dev)",
 	description: "I’m Rajib hasan  _ Full stack devloper,currently working in Berlin",
 };
 
